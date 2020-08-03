@@ -8,3 +8,4 @@ Some of the sanskrit word roots
 - Dana - дань - donation
 - Manas - mind
 - Vishnu - Вышний
+- Rahda - Рад(ость)
