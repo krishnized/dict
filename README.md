@@ -12,3 +12,4 @@ Some of the sanskrit word roots
 - Vidya - video
 - Durveda - дурак
 - Loka - look
+- Anta - intern-
