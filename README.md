@@ -9,3 +9,4 @@ Some of the sanskrit word roots
 - Manas - mind
 - Vishnu - Вышний
 - Rahda - Рад(ость)
+- Vidya - video
