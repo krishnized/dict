@@ -13,3 +13,6 @@ Some of the sanskrit word roots
 - Durveda - дурак
 - Loka - look
 - Anta, antara - internal
+- Aum - amen
+- Isa
+- Krsta
