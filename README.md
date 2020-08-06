@@ -11,3 +11,4 @@ Some of the sanskrit word roots
 - Rahda - Рад(ость)
 - Vidya - video
 - Durveda - дурак
+- Loka - look
