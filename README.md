@@ -10,3 +10,4 @@ Some of the sanskrit word roots
 - Vishnu - Вышний
 - Rahda - Рад(ость)
 - Vidya - video
+- Durveda - дурак
