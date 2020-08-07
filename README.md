@@ -6,7 +6,7 @@ Some of the sanskrit word roots
 - Jnana - знание
 - Bhagavan - Бог
 - Dana - дань - donation
-- Manas - mind
+- Manah - mind
 - Vishnu - Вышний
 - Rahda - Рад(ость)
 - Vidya - video
@@ -16,3 +16,7 @@ Some of the sanskrit word roots
 - Aum - amen
 - Isa
 - Krsta
+- Sva - свой, сам
+- Kada - когда
+- Mahyam - мне, my
+- Dadati - дать
