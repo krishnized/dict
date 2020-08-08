@@ -20,3 +20,4 @@ Some of the sanskrit word roots
 - Kada - когда
 - Mahyam - мне, my
 - Dadati - дать
+- Jiva - Живой
