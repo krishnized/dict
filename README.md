@@ -17,6 +17,7 @@ Some of the sanskrit word roots
 - Isa
 - Krsta
 - Sva - свой, сам
+- Te - ты
 - Kada - когда
 - Mahyam - мне, my
 - Dadati - дать
