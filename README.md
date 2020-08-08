@@ -21,3 +21,4 @@ Some of the sanskrit word roots
 - Mahyam - мне, my
 - Dadati - дать
 - Jiva - Живой
+- Mudha - mud, мудак
