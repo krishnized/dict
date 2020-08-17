@@ -23,3 +23,5 @@ Some of the sanskrit word roots
 - Dadati - дать
 - Jiva - Живой
 - Mudha - mud, мудак
+- Crura - cruelty
+- Griva - шея
