@@ -24,4 +24,5 @@ Some of the sanskrit word roots
 - Jiva - Живой
 - Mudha - mud, мудак
 - Crura - cruelty
-- Griva - шея
+- Griva - грива, шея
+- Sutra - шифр
