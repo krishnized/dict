@@ -13,7 +13,7 @@ Some of the sanskrit word roots
 - Durveda - дурак
 - Loka - look
 - Anta, antara - internal
-- Aum - amen
+- Aum - amen - ау
 - Isa
 - Krsta
 - Sva - свой, сам
@@ -27,3 +27,20 @@ Some of the sanskrit word roots
 - Griva - грива, шея
 - Sutra - шифр
 - Arka - Солнце
+- Meru - Мир
+- Яр (Бог Солнца) - Ярослав, ярко, арий
+- Яруна - Арджуна
+- Велес - велеть
+- Сварог, Сварга - сварганить
+- Agni - огонь
+- Mara - у-мер (у мары), я-мар-адж, в буддизме также
+- Yama - яма (у смерти)
+- dvau - 2
+- tryah - 3
+- chatvarah - 4
+- pancha - 5
+- sat - 6
+- Sapta - seven - september - 7
+- asta - 8
+- nava - 9
+- dasa - 10
