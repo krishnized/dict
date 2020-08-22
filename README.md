@@ -26,3 +26,4 @@ Some of the sanskrit word roots
 - Crura - cruelty
 - Griva - грива, шея
 - Sutra - шифр
+- Arka - Солнце
