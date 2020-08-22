@@ -10,7 +10,7 @@ Some of the sanskrit word roots
 - Vishnu - Вышний
 - Rahda - Рад(ость)
 - Vidya - video
-- Durveda - дурак
+- Dur-veda - дурак
 - Loka - look
 - Anta, antara - internal
 - Aum - amen - ау
@@ -43,4 +43,26 @@ Some of the sanskrit word roots
 - Sapta - seven - september - 7
 - asta - 8
 - nava - 9
-- dasa - 10
+- dasa - 10 - десяит
+- pati - батя
+- bratri - брат
+- dvara - дверь
+- suha - сухой
+- hima - зима
+- sneha - снег
+- vasanta - весна
+- plava - плавать
+- priya - приятный
+- nava - новый
+- sveta - свет
+- tamma - тьма
+- skanda - скандал
+- svakar - свёкр
+- dada - дядя
+- dura - дурак
+- vak - вякать
+- adha - ад
+- budha - будить
+- madho - мёд
+- madhu-veda - медведь
+- Ganga, Padma, Moksha, Kama, Krishneva, Hareva, Indra, Soma - реки, озера
