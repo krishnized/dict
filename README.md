@@ -56,6 +56,7 @@ Some of the sanskrit word roots
 - nava - новый
 - sveta - свет
 - tamma - тьма
+- raja - раж
 - skanda - скандал
 - svakar - свёкр
 - dada - дядя
