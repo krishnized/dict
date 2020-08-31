@@ -67,3 +67,4 @@ Some of the sanskrit word roots
 - madho - мёд
 - madhu-veda - медведь
 - Ganga, Padma, Moksha, Kama, Krishneva, Hareva, Indra, Soma - реки, озера
+- lakhima - легкий
