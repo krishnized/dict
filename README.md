@@ -70,3 +70,4 @@ Some of the sanskrit word roots
 - lakhima - легкий
 - krura - cruel
 - Maha - махина
+- Pratyaksha - практика
