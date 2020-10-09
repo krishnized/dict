@@ -71,3 +71,4 @@ Some of the sanskrit word roots
 - krura - cruel
 - Maha - махина
 - Pratyaksha - практика
+- Apa(urusheya) - верх, up
