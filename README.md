@@ -72,3 +72,4 @@ Some of the sanskrit word roots
 - Maha - махина
 - Pratyaksha - практика
 - Apa(urusheya) - верх, up
+- Pantha - path
