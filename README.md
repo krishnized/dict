@@ -73,3 +73,5 @@ Some of the sanskrit word roots
 - Pratyaksha - практика
 - Apa(urusheya) - верх, up
 - Pantha - path
+- Manu - man
+- Shata (rupa) - сто
