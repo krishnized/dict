@@ -75,3 +75,4 @@ Some of the sanskrit word roots
 - Pantha - path
 - Manu - man
 - Shata (rupa) - сто
+- Lakshmi - luck
