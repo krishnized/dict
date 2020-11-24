@@ -15,7 +15,7 @@ Some of the sanskrit word roots
 - Anta, antara - internal
 - Aum - amen - ау
 - Isa
-- Krsta
+- Krsta - красота, Христос
 - Sva - свой, сам
 - Te - ты
 - Kada - когда
@@ -76,3 +76,4 @@ Some of the sanskrit word roots
 - Manu - man
 - Shata (rupa) - сто
 - Lakshmi - luck
+- pinastuma - пинать
