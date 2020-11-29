@@ -77,3 +77,4 @@ Some of the sanskrit word roots
 - Shata (rupa) - сто
 - Lakshmi - luck
 - pinastuma - пинать
+- Vayu - вьюга
