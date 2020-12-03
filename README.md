@@ -78,3 +78,4 @@ Some of the sanskrit word roots
 - Lakshmi - luck
 - pinastuma - пинать
 - Vayu - вьюга
+- Raudra - rude
