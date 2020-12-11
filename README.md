@@ -79,3 +79,4 @@ Some of the sanskrit word roots
 - pinastuma - пинать
 - Vayu - вьюга
 - Raudra - rude
+- Youvana - youth - юношество
