@@ -22,7 +22,7 @@ Some of the sanskrit word roots
 - Mahyam - мне, my
 - Dadati - дать
 - Jiva - Живой
-- Mudha - mud, мудак
+- Mudha - mud, мудак, глупец
 - Crura - cruelty
 - Griva - грива, шея
 - Sutra - шифр
@@ -45,7 +45,7 @@ Some of the sanskrit word roots
 - nava - 9
 - dasa - 10 - десяит
 - pati - батя
-- bratri - брат
+- bratri, bhratah - брат
 - dvara - дверь
 - suha - сухой
 - hima - зима
