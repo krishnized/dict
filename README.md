@@ -80,3 +80,4 @@ Some of the sanskrit word roots
 - Vayu - вьюга
 - Raudra - rude
 - Youvana - youth - юношество
+- madā - mad, intoxication, insanity
