@@ -81,3 +81,4 @@ Some of the sanskrit word roots
 - Raudra - rude
 - Youvana - youth - юношество
 - madā - mad, intoxication, insanity
+- Ananda - un-end(ing)
