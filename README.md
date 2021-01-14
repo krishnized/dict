@@ -82,3 +82,4 @@ Some of the sanskrit word roots
 - Youvana - youth - юношество
 - madā - mad, intoxication, insanity
 - Ananda - un-end(ing)
+- Tvai, tava - твои, тебе
