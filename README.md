@@ -83,3 +83,4 @@ Some of the sanskrit word roots
 - madā - mad, intoxication, insanity
 - Ananda - un-end(ing)
 - Tvai, tava - твои, тебе
+- (nir)Vana -  fauna
