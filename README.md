@@ -84,3 +84,4 @@ Some of the sanskrit word roots
 - Ananda - un-end(ing)
 - Tvai, tava - твои, тебе
 - (nir)Vana -  fauna
+- pinastu - пинать
