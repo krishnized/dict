@@ -85,3 +85,4 @@ Some of the sanskrit word roots
 - Tvai, tava - твои, тебе
 - (nir)Vana -  fauna
 - pinastu - пинать
+- chaitya - чаять
