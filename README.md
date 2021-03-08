@@ -86,3 +86,4 @@ Some of the sanskrit word roots
 - (nir)Vana -  fauna
 - pinastu - пинать
 - chaitya - чаять
+- sada - всегда
