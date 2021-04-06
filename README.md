@@ -87,3 +87,4 @@ Some of the sanskrit word roots
 - pinastu - пинать
 - chaitya - чаять
 - sada - всегда
+- ahankara - I'm a car я машина
