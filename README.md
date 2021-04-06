@@ -88,3 +88,4 @@ Some of the sanskrit word roots
 - chaitya - чаять
 - sada - всегда
 - ahankara - I'm a car я машина
+- dia - diablo
