@@ -89,3 +89,5 @@ Some of the sanskrit word roots
 - sada - всегда
 - ahankara - I'm a car я машина
 - dia - diablo
+- smita - smile
+- mishra - mix
