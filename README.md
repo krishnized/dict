@@ -92,3 +92,5 @@ Some of the sanskrit word roots
 - smita - smile
 - mishra - mix
 - Himalaya - Зима + Лежать
+- Bruyant - шумный
+- Priyam - приятный
