@@ -94,3 +94,5 @@ Some of the sanskrit word roots
 - Himalaya - Зима + Лежать
 - Bruyant - шумный
 - Priyam - приятный
+- Surpa - Sharp
+- Nakha - nails, ногти
