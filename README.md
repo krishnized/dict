@@ -96,3 +96,4 @@ Some of the sanskrit word roots
 - Priyam - приятный
 - Surpa - Sharp
 - Nakha - nails, ногти
+- Paravyak - вякать
