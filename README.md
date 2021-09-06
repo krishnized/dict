@@ -97,3 +97,4 @@ Some of the sanskrit word roots
 - Surpa - Sharp
 - Nakha - nails, ногти
 - Paravyak - вякать
+- Plavena - корабль
