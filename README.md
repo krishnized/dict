@@ -98,3 +98,4 @@ Some of the sanskrit word roots
 - Nakha - nails, ногти
 - Paravyak - вякать
 - Plavena - корабль
+- Trishna - Thirst
