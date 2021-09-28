@@ -99,3 +99,4 @@ Some of the sanskrit word roots
 - Paravyak - вякать
 - Plavena - корабль
 - Trishna - Thirst
+- Musika - мышка
