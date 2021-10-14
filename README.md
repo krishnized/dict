@@ -100,3 +100,6 @@ Some of the sanskrit word roots
 - Plavena - корабль
 - Trishna - Thirst
 - Musika - мышка
+- Hasya rasa - смех
+- Raudra - rude
+- Bhaya - Бояться
