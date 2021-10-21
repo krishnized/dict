@@ -103,3 +103,4 @@ Some of the sanskrit word roots
 - Hasya rasa - смех
 - Raudra - rude
 - Bhaya - Бояться
+- Chit - читать (набираться знания)
