@@ -104,3 +104,5 @@ Some of the sanskrit word roots
 - Raudra - rude
 - Bhaya - Бояться
 - Chit - читать (набираться знания)
+- Hanti - to kill
+- Balavan - болван, сильный
