@@ -107,3 +107,4 @@ Some of the sanskrit word roots
 - Hanti - to kill
 - Balavan - болван, сильный
 - Krita - Create
+- Smaranam - Smart
