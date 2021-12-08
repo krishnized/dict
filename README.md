@@ -106,3 +106,4 @@ Some of the sanskrit word roots
 - Chit - читать (набираться знания)
 - Hanti - to kill
 - Balavan - болван, сильный
+- Krita - Create
