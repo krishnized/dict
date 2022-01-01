@@ -108,3 +108,4 @@ Some of the sanskrit word roots
 - Balavan - болван, сильный
 - Krita - Create
 - Smaranam - Smart
+- Prsna - С-прашивать
