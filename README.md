@@ -109,3 +109,4 @@ Some of the sanskrit word roots
 - Krita - Create
 - Smaranam - Smart
 - Prsna - С-прашивать
+- Shoka - shock
