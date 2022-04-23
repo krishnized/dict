@@ -110,3 +110,4 @@ Some of the sanskrit word roots
 - Smaranam - Smart
 - Prsna - С-прашивать
 - Shoka - shock
+- papebhyo - sinful reaction, бьёт по попе
