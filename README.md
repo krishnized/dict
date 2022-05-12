@@ -111,3 +111,5 @@ Some of the sanskrit word roots
 - Prsna - С-прашивать
 - Shoka - shock
 - papebhyo - sinful reaction, бьёт по попе
+- vart - путь (врата)
+- prapadyante - препадать (surrender)
