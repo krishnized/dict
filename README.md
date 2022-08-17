@@ -113,3 +113,4 @@ Some of the sanskrit word roots
 - papebhyo - sinful reaction, бьёт по попе
 - vart - путь (врата)
 - prapadyante - препадать (surrender)
+- abhimanah - обман
