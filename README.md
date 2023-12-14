@@ -91,6 +91,7 @@ Some of the sanskrit word roots
 - dia - diablo
 - smita - smile
 - mishra - mix
+- Hima - Зима
 - Himalaya - Зима + Лежать
 - Bruyant - шумный
 - Priyam - приятный
